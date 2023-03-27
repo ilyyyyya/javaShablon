@@ -1,0 +1,12 @@
+ru/mirea/ikbo3021/config/BeanConfig.java
+ ru.mirea.ikbo3021.config.BeanConfig
+ru/mirea/ikbo3021/interfaces/Musician.java
+ ru.mirea.ikbo3021.interfaces.Musician
+ru/mirea/ikbo3021/components/Trombonist.java
+ ru.mirea.ikbo3021.components.Trombonist
+ru/mirea/ikbo3021/components/Guitarist.java
+ ru.mirea.ikbo3021.components.Guitarist
+ru/mirea/ikbo3021/components/Drummer.java
+ ru.mirea.ikbo3021.components.Drummer
+ru/mirea/ikbo3021/Application.java
+ ru.mirea.ikbo3021.Application
