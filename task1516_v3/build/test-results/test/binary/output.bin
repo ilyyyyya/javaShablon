@@ -1,0 +1,2 @@
+!12:52:40.768 [Test worker] INFO 
+™                c.e.t.service.DepartureService â€“ add departure Departure(id=null, type=type_19, departure_date=null, edu_type=null, postsoffice=null)

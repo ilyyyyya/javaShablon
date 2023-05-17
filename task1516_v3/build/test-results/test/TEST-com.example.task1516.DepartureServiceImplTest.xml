@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.task1516.DepartureServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-07T09:52:39" hostname="DESKTOP-5M68U0J" time="0.842">
+  <properties/>
+  <testcase name="getDepartures()" classname="com.example.task1516.DepartureServiceImplTest" time="0.818"/>
+  <testcase name="addNewDeparture()" classname="com.example.task1516.DepartureServiceImplTest" time="0.022"/>
+  <system-out><![CDATA[12:52:40.768 [Test worker] INFO 
+                c.e.t.service.DepartureService – add departure Departure(id=null, type=type_19, departure_date=null, edu_type=null, postsoffice=null)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,158 @@
+669  [restartedMain] INFO  c.e.task1516.Task1516Application
+                – Starting Task1516Application using Java 19 with PID 20544 (C:\Users\Илья\IdeaProjects\task1516_v3\build\classes\java\main started by Илья in C:\Users\Илья\IdeaProjects\task1516_v3)
+675  [restartedMain] INFO  c.e.task1516.Task1516Application
+                – No active profile set, falling back to 1 default profile: "default"
+729  [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+729  [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+1353 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1397 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Finished Spring Data repository scanning in 36 ms. Found 2 JPA repository interfaces.
+2362 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+2370 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+2371 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+2371 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.7]
+2428 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+2428 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 1698 ms
+2793 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper
+                – HHH000204: Processing PersistenceUnitInfo [name: default]
+2851 [restartedMain] INFO  org.hibernate.Version
+                – HHH000412: Hibernate ORM core version 6.1.7.Final
+3221 [restartedMain] INFO  SQL dialect
+                – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+4380 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+4392 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Initialized JPA EntityManagerFactory for persistence unit 'default'
+4846 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+5314 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver
+                – Exposing 1 endpoint(s) beneath base path '/actuator'
+5369 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@9655807, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49be43fa, org.springframework.security.web.context.SecurityContextHolderFilter@6d1cad81, org.springframework.security.web.header.HeaderWriterFilter@2288e54c, org.springframework.security.web.authentication.logout.LogoutFilter@47dcb881, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4c119140, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@8914abf, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@295006bd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5dc8e2be, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7e5247e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5bc0e205, org.springframework.security.web.access.ExceptionTranslationFilter@6a5b5372, org.springframework.security.web.access.intercept.AuthorizationFilter@726b33f2]
+5654 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+5692 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+5709 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+5726 [restartedMain] INFO  c.e.task1516.Task1516Application
+                – Started Task1516Application in 5.373 seconds (process running for 6.246)
+6340 [RMI TCP Connection(6)-192.168.1.43] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+6340 [RMI TCP Connection(6)-192.168.1.43] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+6341 [RMI TCP Connection(6)-192.168.1.43] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 1 ms
+48408 [scheduling-1] INFO  com.example.task1516.Aspect
+                – void com.example.task1516.service.ScheduleService.doScheduledTask() выполнен за 199мс
+64279 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Closing JPA EntityManagerFactory for persistence unit 'default'
+669  [restartedMain] INFO  c.e.task1516.Task1516Application
+                – Starting Task1516Application using Java 19 with PID 6088 (C:\Users\Илья\IdeaProjects\task1516_v3\build\classes\java\main started by Илья in C:\Users\Илья\IdeaProjects\task1516_v3)
+672  [restartedMain] INFO  c.e.task1516.Task1516Application
+                – No active profile set, falling back to 1 default profile: "default"
+715  [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+715  [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+1391 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+1441 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Finished Spring Data repository scanning in 41 ms. Found 2 JPA repository interfaces.
+2436 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+2446 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+2446 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+2447 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.7]
+2514 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+2514 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 1798 ms
+2904 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper
+                – HHH000204: Processing PersistenceUnitInfo [name: default]
+2952 [restartedMain] INFO  org.hibernate.Version
+                – HHH000412: Hibernate ORM core version 6.1.7.Final
+3336 [restartedMain] INFO  SQL dialect
+                – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+4139 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+4149 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Initialized JPA EntityManagerFactory for persistence unit 'default'
+4518 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+4984 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver
+                – Exposing 1 endpoint(s) beneath base path '/actuator'
+5039 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@582b2cb4, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@a62259a, org.springframework.security.web.context.SecurityContextHolderFilter@445fda9a, org.springframework.security.web.header.HeaderWriterFilter@463f9018, org.springframework.security.web.authentication.logout.LogoutFilter@6aa4e530, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@46528932, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2c12c41c, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@7596d809, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1144f649, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3d83fce1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@67112ad, org.springframework.security.web.access.ExceptionTranslationFilter@9d7df43, org.springframework.security.web.access.intercept.AuthorizationFilter@5f6c6d35]
+5365 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+5411 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+5431 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+5450 [restartedMain] INFO  c.e.task1516.Task1516Application
+                – Started Task1516Application in 5.105 seconds (process running for 5.982)
+5824 [RMI TCP Connection(5)-192.168.1.43] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+5824 [RMI TCP Connection(5)-192.168.1.43] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+5826 [RMI TCP Connection(5)-192.168.1.43] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 2 ms
+17078 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler
+                – Unexpected error occurred in scheduled task
+org.hibernate.LazyInitializationException: failed to lazily initialize a collection of role: com.example.task1516.entity.Departure.postsoffice: could not initialize proxy - no Session
+	at org.hibernate.collection.spi.AbstractPersistentCollection.throwLazyInitializationException(AbstractPersistentCollection.java:635)
+	at org.hibernate.collection.spi.AbstractPersistentCollection.withTemporarySessionIfNeeded(AbstractPersistentCollection.java:218)
+	at org.hibernate.collection.spi.AbstractPersistentCollection.initialize(AbstractPersistentCollection.java:615)
+	at org.hibernate.collection.spi.AbstractPersistentCollection.read(AbstractPersistentCollection.java:136)
+	at org.hibernate.collection.spi.PersistentBag.toString(PersistentBag.java:584)
+	at java.base/java.lang.String.valueOf(String.java:4225)
+	at com.example.task1516.entity.Departure.toString(Departure.java:12)
+	at com.example.task1516.service.ScheduleService.doScheduledTask(ScheduleService.java:48)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.example.task1516.Aspect.logExecutionTime(Aspect.java:20)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
+	at com.example.task1516.service.ScheduleService$$SpringCGLIB$$0.doScheduledTask(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:96)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+57253 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Closing JPA EntityManagerFactory for persistence unit 'default'
+226  [Test worker] INFO  c.e.t.service.DepartureService
+                � add departure Departure(id=null, type=type_19, departure_date=null, edu_type=null, postsoffice=null)
